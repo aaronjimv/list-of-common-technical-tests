@@ -3,4 +3,4 @@
 
 This repository contains scripts with common technical tests.
 
-Feel free to add one.
+Feel free to add one. 😎
